@@ -1,0 +1,12 @@
+c:\Users\kevin\documents\GitHub\Equipo-8\PII_RoleplayGame_1_Start\src\Library\bin\Debug\net5.0\Library.deps.json
+c:\Users\kevin\documents\GitHub\Equipo-8\PII_RoleplayGame_1_Start\src\Library\bin\Debug\net5.0\Library.dll
+c:\Users\kevin\documents\GitHub\Equipo-8\PII_RoleplayGame_1_Start\src\Library\bin\Debug\net5.0\ref\Library.dll
+c:\Users\kevin\documents\GitHub\Equipo-8\PII_RoleplayGame_1_Start\src\Library\bin\Debug\net5.0\Library.pdb
+c:\Users\kevin\documents\GitHub\Equipo-8\PII_RoleplayGame_1_Start\src\Library\obj\Debug\net5.0\Library.csproj.AssemblyReference.cache
+c:\Users\kevin\documents\GitHub\Equipo-8\PII_RoleplayGame_1_Start\src\Library\obj\Debug\net5.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kevin\documents\GitHub\Equipo-8\PII_RoleplayGame_1_Start\src\Library\obj\Debug\net5.0\Library.AssemblyInfoInputs.cache
+c:\Users\kevin\documents\GitHub\Equipo-8\PII_RoleplayGame_1_Start\src\Library\obj\Debug\net5.0\Library.AssemblyInfo.cs
+c:\Users\kevin\documents\GitHub\Equipo-8\PII_RoleplayGame_1_Start\src\Library\obj\Debug\net5.0\Library.csproj.CoreCompileInputs.cache
+c:\Users\kevin\documents\GitHub\Equipo-8\PII_RoleplayGame_1_Start\src\Library\obj\Debug\net5.0\Library.dll
+c:\Users\kevin\documents\GitHub\Equipo-8\PII_RoleplayGame_1_Start\src\Library\obj\Debug\net5.0\ref\Library.dll
+c:\Users\kevin\documents\GitHub\Equipo-8\PII_RoleplayGame_1_Start\src\Library\obj\Debug\net5.0\Library.pdb
